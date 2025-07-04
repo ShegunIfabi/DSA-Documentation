@@ -16,6 +16,18 @@ The data source used here is Data Sale.csv, and this is an open-source dataset t
      - For data collection
      - For data cleaning 
 - SQL Server (For Querying and analysis)
-- Power BI (For report creation)
-- MS PowerPoint (For presentation)
+- Power BI (For report creation) [Download here](https.//www.microsoft.com)
+
+### Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparations, we perform the following actions:
+1. Data Loading and Inspection
+2. Handling missing variables and errors
+3. Cleaning and formatting
+
+
+### Explanatory Data Analysis
+EDA involves exploring the data to answer some questions about the data, such as :
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the products on peak sales?
 
