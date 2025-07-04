@@ -1,8 +1,5 @@
 # DSA-Documentation
 This is where I started my Portfolio building during my Data Analysis journey with The Incubator Hub
 
-I learned a number of things such as : Ms Excel, SQL, now my Portfolio Building and after that we shall deal with Power Bi where we'll study PowerQuery, Dax calculation, Modeling and Visualization. It is going to be a great time.
+I learned several things, including MS Excel, SQL, and portfolio building. Next, we'll deal with Power BI, where we'll study PowerQuery, DAX calculations, Modeling, and Visualization. It is going to be a great time. We had numerous case study projects to gain more insight and clarity. With this knowledge, I will be able to start as an Intern and finish by being a Proficient Data Analyst.
 
-## Project Topic : E commerce Sales Analysis 
-
-### Project overview 
